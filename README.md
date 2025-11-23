@@ -1,2 +1,1 @@
 # gitstudy
-some modification in the text
